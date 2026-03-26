@@ -1,8 +1,24 @@
-## Hi there 👋
+## Hi I'm Seth 👋
+🎓 Computer Science student
+💻 Aspiring Full-Stack Developer (React + .NET)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SethEmia&show_icons=true&theme=cobalt)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SethEmia&layout=donut-vertical&theme=cobalt&exclude_repo=ASSEMBLY_PAIN)](https://github.com/anuraghazra/github-readme-stats)
 
+## Tech Stack
+Frontend: React, JavaScript, CSS
+Backend: .NET Web API
+Database: SQL Server
+
+## Currently Learning
+- Authentication (JWT)
+- Clean architecture
+- API design
+
+## Contacts
+- LinkedIn: www.linkedin.com/in/seth-nathaniel-emia
+- Cellphone Number: 0991 204 3880
+- Email: sethnathanemia@gmail.com
 <!--
 **BreakfasteMeat/BreakfasteMeat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
