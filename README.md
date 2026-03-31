@@ -1,6 +1,8 @@
 ## Hi I'm Seth 👋
 🎓 Computer Science student
 💻 Aspiring Full-Stack Developer (React + .NET)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SethEmia&show_icons=true&theme=cobalt)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SethEmia&layout=donut-vertical&theme=cobalt&exclude_repo=ASSEMBLY_PAIN)](https://github.com/anuraghazra/github-readme-stats)
