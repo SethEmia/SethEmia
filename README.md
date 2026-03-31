@@ -6,9 +6,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SethEmia&layout=donut-vertical&theme=cobalt&exclude_repo=ASSEMBLY_PAIN)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tech Stack
+Languages: C, C++, C#, Java, Python
 Frontend: React, JavaScript, CSS
-Backend: .NET Web API
-Database: SQL Server
+Backend: .NET Web API, Django, Springboot
+
 
 ## Currently Learning
 - Authentication (JWT)
