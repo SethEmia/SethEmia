@@ -1,7 +1,6 @@
 ## Hi I'm Seth 👋
 🎓 Computer Science student
 💻 Aspiring Full-Stack Developer (React + .NET)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sethemia&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ## Tech Stack
 Languages: C, C++, C#, Java, Python
